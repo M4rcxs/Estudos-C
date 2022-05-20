@@ -1,2 +1,1 @@
-# Estudos-C
-Alguns problemas resolvidos na linguagem C
+# Exercícios resolvidos na Linguagem C
